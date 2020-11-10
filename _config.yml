@@ -1,0 +1,101 @@
+remote_theme: aditya-shri/just-the-docs
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+color_scheme: dark
+
+collections:
+  Abstraction:
+    permalink: "/:collection/:path/"
+    output: true
+  Array:
+    permalink: "/:collection/:path/"
+    output: true
+  ControlStatement:
+    permalink: "/:collection/:path/"
+    output: true
+  Exception:
+    permalink: "/:collection/:path/"
+    output: true
+  Files:
+    permalink: "/:collection/:path/"
+    output: true
+  Functions:
+    permalink: "/:collection/:path/"
+    output: true
+  Inheritance:
+    permalink: "/:collection/:path/"
+    output: true
+  Iterative:
+    permalink: "/:collection/:path/"
+    output: true
+  Namespace:
+    permalink: "/:collection/:path/"
+    output: true
+  OOPs:
+    permalink: "/:collection/:path/"
+    output: true
+  Polymorphism:
+    permalink: "/:collection/:path/"
+    output: true
+  String:
+    permalink: "/:collection/:path/"
+    output: true
+    
+collections_dir: src
+    
+just-the-docs:
+    collections:
+          Abstraction:
+            name: Abstraction
+            output: true
+            nav_exclude: false
+            search_exclude: false
+          Array:
+            name: Array
+            nav_exclude: false
+            search_exclude: false
+          ControlStatement:
+            name: ControlStatement
+            nav_exclude: false
+            search_exclude: false
+          Exception:
+            name: Exception
+            nav_exclude: false
+            search_exclude: false
+          Files:
+            name: Files
+            nav_exclude: false
+            search_exclude: false
+          Functions:
+            name: Functions
+            nav_exclude: false
+            search_exclude: false
+          Inheritance:
+            name: Inheritance
+            nav_exclude: false
+            search_exclude: false
+          Iterative:
+            name: Iterative
+            nav_exclude: false
+            search_exclude: false
+          Namespace:
+            name: Namespace
+            nav_exclude: false
+            search_exclude: false
+          OOPs:
+            name: Oops
+            nav_exclude: false
+            search_exclude: false
+          Polymorphism:
+            name: Polymorphism
+            nav_exclude: false
+            search_exclude: false
+          String:
+            name: String
+            nav_exclude: false
+            search_exclude: false
