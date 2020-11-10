@@ -1,6 +1,6 @@
 ---
 layout: default
-title: this
+title: this and static
 parent: OOPs
 nav_order: 4
 ---

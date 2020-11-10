@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Itertive
+title: Iterative
 nav_order: 12
 has_children: true
 ---

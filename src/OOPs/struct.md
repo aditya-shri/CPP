@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structure (struct)
+title: struct
 parent: OOPs
 nav_order: 5
 ---

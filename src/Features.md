@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abstraction
+title: Features
 nav_order: 4
 ---
 #### C++ Features

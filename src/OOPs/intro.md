@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OOPs Concepts
+title: OOPs, Object, Class
 parent: OOPs
 nav_order: 1
 ---
