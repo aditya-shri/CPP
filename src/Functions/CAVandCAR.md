@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call-by : Value and reference
+title: Call by Value and Call by Reference
 parent: Functions
 nav_order: 2
 ---
