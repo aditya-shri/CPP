@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 permalink: /
 ---
-![CPP Logo](https://img.icons8.com/color/512/000000/c-plus-plus.png)
+![CPP Logo](./images/cpp.png)
 
 -----------
 
