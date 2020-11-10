@@ -5,6 +5,7 @@ nav_order: 1
 permalink: /
 ---
 ![CPP Logo](./images/cpp.png)
+{: .mx-auto }
 
 -----------
 
