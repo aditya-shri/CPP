@@ -1,7 +1,7 @@
 # C++ Notes and Programs
 
 
-![](./images/cpp.png =600x675)
+![](./images/cpp.png)
 
 
 |Topics|
