@@ -4,9 +4,7 @@ title: Home
 nav_order: 1
 permalink: /
 ---
-![CPP Logo](./images/cpp.png)
-{: .mx-auto }
-
+![CPP Logo](./images/cpp.png){: .mx-auto }
 -----------
 
 C++ is an object-oriented programming language. It is an extension to C programming.
