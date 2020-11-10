@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C++ VS C
+title: C VS C++
 nav_order: 2
 ---
 ### C vs C++
